@@ -1,0 +1,23 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .joinWineClubList {
+ 	overflow: hidden;
+ }
+
+ .joinWineClubList li {
+ 	float: left;
+ 	width: calc(50% - 20px);
+ 	padding: 0 10px;
+ 	margin-bottom: 30px;
+ 	list-style: none;
+ }
+
+.joinWineClubList li h3 {
+	padding-top: 15px;
+}
+
+ .joinWineClubList .price {
+ 	display: block;
+ }

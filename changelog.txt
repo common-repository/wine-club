@@ -1,0 +1,44 @@
+V 1.0.1
+------------------
+Some small bug fixes
+
+V 1.0.2
+------------------
+Added support for square credit card processing
+
+V 1.0.5
+------------------
+Club Connection icon change and description
+
+V 1.0.6
+------------------
+improvements to UI language
+small bug fixes
+
+V 1.0.7
+------------------
+Name Changes : From Wine Club to Club Connection
+
+= V 1.0.8 =
+------------------
+Name Changes : From Club Connection to Wine Club Connection
+
+= V 1.0.9 =
+------------------
+update file locations, sanitization, remove error reporting
+
+= V 1.1.0 =
+------------------
+update file locations, solving some issues,latest wp version test
+
+= V 1.1.1 =
+------------------
+Latest wp version test
+
+= V 1.1.2 =
+------------------
+Latest wp version test
+
+= V 1.1.3 =
+------------------
+Latest wp version test
